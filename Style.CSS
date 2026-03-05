@@ -1,9 +1,11 @@
-li{
+<li>Apple</li> {
     color: red;
 }
-li{
-    color: green;
-}
-li{
-    color: blue;
-}
+    <li>Banana</li> {
+    color: yellow;
+    }
+
+    <li>Cherry</li> {
+    color: red;
+    }
+ 
